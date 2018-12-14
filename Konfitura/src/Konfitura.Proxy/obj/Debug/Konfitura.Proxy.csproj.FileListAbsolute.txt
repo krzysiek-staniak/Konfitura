@@ -1,0 +1,11 @@
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Proxy\bin\Debug\Konfitura.Proxy.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Proxy\bin\Debug\Konfitura.Proxy.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Proxy\obj\Debug\Konfitura.Proxy.csprojAssemblyReference.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Proxy\obj\Debug\Konfitura.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Proxy\obj\Debug\Konfitura.Proxy.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Proxy\obj\Debug\Konfitura.Proxy.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\proxy\Konfitura.Proxy.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\proxy\Konfitura.Proxy.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Proxy\obj\Debug\Konfitura.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Proxy\obj\Debug\Konfitura.Proxy.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Proxy\obj\Debug\Konfitura.Proxy.pdb

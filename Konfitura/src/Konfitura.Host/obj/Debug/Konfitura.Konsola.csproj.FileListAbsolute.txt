@@ -1,0 +1,15 @@
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\bin\Debug\Konfitura.Konsola.exe.config
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\bin\Debug\Konfitura.Konsola.exe
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\bin\Debug\Konfitura.Konsola.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\bin\Debug\Konfitura.Core.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\bin\Debug\Konfitura.Proxy.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\bin\Debug\Konfitura.Proxy.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\bin\Debug\Konfitura.Core.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\obj\Debug\Konfitura.Konsola.csprojAssemblyReference.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\obj\Debug\Konfitura.Konsola.csproj.CoreCompileInputs.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\obj\Debug\Konfitura.Konsola.csproj.CopyComplete
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\obj\Debug\Konfitura.Konsola.exe
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Konsola\obj\Debug\Konfitura.Konsola.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\konsola\Konfitura.Konsola.exe.config
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\konsola\Konfitura.Konsola.exe
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\konsola\Konfitura.Konsola.pdb

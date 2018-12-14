@@ -1,0 +1,9 @@
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\host\Konfitura.Host.exe.config
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\host\Konfitura.Host.exe
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\host\Konfitura.Host.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Host\obj\Debug\Konfitura.Host.csprojAssemblyReference.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Host\obj\Debug\Konfitura.Host.csproj.CoreCompileInputs.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Host\obj\Debug\Konfitura.Host.csproj.CopyComplete
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Host\obj\Debug\Konfitura.Host.exe
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Host\obj\Debug\Konfitura.Host.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\host\App.config

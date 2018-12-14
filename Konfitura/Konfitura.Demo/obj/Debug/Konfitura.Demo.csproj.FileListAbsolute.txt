@@ -1,0 +1,10 @@
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\bin\Debug\Konfitura.Demo.exe.config
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\bin\Debug\Konfitura.Demo.exe
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\bin\Debug\Konfitura.Demo.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\obj\Debug\Konfitura.Demo.csprojAssemblyReference.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\obj\Debug\Konfitura.Demo.csproj.CoreCompileInputs.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\obj\Debug\Konfitura.Demo.exe
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\obj\Debug\Konfitura.Demo.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\bin\Debug\Konfitura.Proxy.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\bin\Debug\Konfitura.Proxy.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\Konfitura.Demo\obj\Debug\Konfitura.Demo.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\bin\Debug\Konfitura.Core.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\bin\Debug\Konfitura.Core.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\bin\Debug\Konfitura.Proxy.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\bin\Debug\Konfitura.Proxy.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\obj\Debug\Konfitura.Service.csprojAssemblyReference.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\obj\Debug\Konfitura.Service.csproj.CoreCompileInputs.cache
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\obj\Debug\Konfitura.Service.csproj.CopyComplete
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\service\Konfitura.Service.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\bin\service\Konfitura.Service.pdb
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\obj\Debug\Konfitura.Service.dll
+C:\Users\PZ_k.staniak\source\repos\Konfitura\src\Konfitura.Service\obj\Debug\Konfitura.Service.pdb
